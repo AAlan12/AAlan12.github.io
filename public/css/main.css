@@ -1,0 +1,12 @@
+.myclass{
+    color: antiquewhite;
+    text-align:	center;
+    line-height: 20px;	/*	tamanho	da	altura	de	cada	linha	*/
+	letter-spacing: 5px;	/*	tamanho	do	espaço	entre	cada	letra	*/
+	word-spacing: 5px;	/*	tamanho	do	espaço	entre	cada	palavra	*/
+	text-indent: 30px;	/*	tamanho	da	margem	da	primeira	linha	do	texto	*/
+
+}
+body{
+    background-color: rgb(84, 84, 99);
+}
